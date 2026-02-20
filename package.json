@@ -1,0 +1,20 @@
+{
+  "name": "ludo-rani-api",
+  "version": "0.1.0",
+  "description": "Initial API scaffold for Ludo Rani",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "ludo",
+    "express",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
