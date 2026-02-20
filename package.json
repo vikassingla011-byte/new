@@ -1,0 +1,16 @@
+{
+  "name": "ludo-rani",
+  "version": "0.1.0",
+  "description": "Ludo Rani backend foundation",
+  "private": true,
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "check": "node --check src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
